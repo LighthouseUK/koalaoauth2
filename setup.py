@@ -11,6 +11,5 @@ setup(
     download_url='https://github.com/LighthouseUK/koalaoauth2/tarball/0.1.1-alpha',  # I'll explain this in a second
     keywords=['gae', 'lighthouse', 'koala'],  # arbitrary keywords
     classifiers=[],
-    requires=['koalacore', 'blinker', 'oauthlib'],
-    test_requires=['mock']
+    requires=['koalacore', 'blinker', 'oauthlib']
 )
